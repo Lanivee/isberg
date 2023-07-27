@@ -1,7 +1,10 @@
 [package]
 name = "isberg"
 version = "0.1.0"
+authors = ["https://github.com/Lanivee"]
 edition = "2021"
+description = "A graphics library built with Vulkan."
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
