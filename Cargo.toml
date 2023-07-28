@@ -3,9 +3,14 @@ name = "isberg"
 version = "0.1.0"
 authors = ["https://github.com/Lanivee"]
 edition = "2021"
-description = "A graphics library built with Vulkan."
+description = "A graphics library built with Vulkan. (Not ready for release yet! But hopefully soon!)"
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+ash = "0.37.3"
+ash-window = "0.12.0"
+glam = "0.24.1"
+shaderc = "0.8.2"
+winit = "0.28.6"
